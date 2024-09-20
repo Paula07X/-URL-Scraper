@@ -15,3 +15,5 @@ This script fetches all URLs from a specified domain and saves them to a text fi
 - `beautifulsoup4`
    'pip install beautifulsoup4'
   
+
+follow the project [here](https://medium.com/@paula07x/how-to-scrape-urls-from-any-domain-using-python-7f4d8ec960b1)
